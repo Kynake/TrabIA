@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrabIA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrabIA_jar</output-path>
+    <root id="archive" name="TrabIA.jar">
+      <element id="module-output" name="TrabIA" />
+    </root>
+  </artifact>
+</component>
